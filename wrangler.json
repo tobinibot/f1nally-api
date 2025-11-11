@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-10-08",
+  "main": "src/index.ts",
+  "name": "f1nally-api",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "6c7667ae-52ec-42c0-a0f4-5c54d8e5ec64",
+      "database_name": "f1nally_backend_v1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
